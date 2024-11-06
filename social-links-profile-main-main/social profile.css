@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+
+}
+
+.body{
+    background-color:gray ;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    width: 25%;
+}
+img{
+    border-radius: 50%;
+}
+h1{
+    color: white;
+}
+h2{
+    color:hsl(75, 94%, 57%);
+}
+p{
+    color: white;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.button  button{
+    border-radius: 5px;
+    background-color: rgb(95, 93, 93);
+    color: white;
+    padding: 10px;
+}
